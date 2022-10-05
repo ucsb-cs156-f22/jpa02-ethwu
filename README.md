@@ -1,8 +1,8 @@
 # jpa02-ethwu
 
-Repo: https://ucsb-cs156-f22/jpa02-ethwu
+Repo: https://ucsb-cs156-f22/jpa02-ethanwu
 
-On Heroku: https://cs156-f22-jpa02-ethwu.herokuapp.com
+On Heroku: https://cs156-f22-jpa02-ethanwu.herokuapp.com
 
 
 # About this repo
